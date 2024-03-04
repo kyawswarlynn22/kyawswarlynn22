@@ -10,9 +10,6 @@
 - 💬 Ask me about **Laravel, Vue.js, PHP, Tailwind**
 
 - 📫 How to reach me **kyawswarlynn224@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mBfkcbI4naWL7YgmdNE0ZR8_wS_lgjfM/view?usp=sharing](https://drive.google.com/file/d/1mBfkcbI4naWL7YgmdNE0ZR8_wS_lgjfM/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

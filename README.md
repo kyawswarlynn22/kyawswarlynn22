@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyawswarlynn22&label=Profile%20views&color=0e75b6&style=flat" alt="kyawswarlynn22" /> </p>
 
-- 🔭 I’m currently working on [Bridge](https://bridge-mm.com/)
+- 🔭 I’m currently working on [BIM Group of Companies](https://bimgoc.com/)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Laravel, Vue.js, PHP, Tailwind**
 

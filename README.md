@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [BIM Group of Companies](https://bimgoc.com/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JAVA**
 
 - 💬 Ask me about **Laravel, Vue.js, PHP, Tailwind**
 
